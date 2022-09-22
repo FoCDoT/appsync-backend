@@ -1,0 +1,25 @@
+{
+  "name": "appsync-backend",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sls": "sls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FoCDoT/appsync-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FoCDoT/appsync-backend/issues"
+  },
+  "homepage": "https://github.com/FoCDoT/appsync-backend#readme",
+  "devDependencies": {
+    "serverless": "2.4.0",
+    "serverless-appsync-plugin": "^1.14.0"
+  }
+}
